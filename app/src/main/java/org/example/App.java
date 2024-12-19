@@ -14,7 +14,7 @@
          Book book2 = new Book("How To Make It", "J. K. Mansouer",1980);
          Book book3 = new Book("American Psycho ", "J. K. Mansouer",1945);
          Book book4 = new Book("Don't be a Sinner", "J. K. Mansouer",1908);
-        System.out.println(book1.title);
+        System.out.println(book1.getTitle());
  
      }
  
